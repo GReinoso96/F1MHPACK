@@ -1,5 +1,5 @@
 # F1MHPACK
-Freedom 1 Unpacker
+Freedom 1 Unpacker made in C# (.net core 3.1).
 
 ## Usage
 It currently should only be used with the European version (ULES00318).
