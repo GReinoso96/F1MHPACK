@@ -20,3 +20,5 @@ Will extract the game's data to the "out" directory (gets created if it doesn't 
 
 ## Other
 Find the complete file list and corresponding file position in [this google sheet](https://docs.google.com/spreadsheets/d/1UDhgmjg2ChJlrGET1iKVlNaaN_EJ0pVc-m6tqZmY5IM/edit?usp=sharing).
+
+See Also: [Modding Wiki (WIP)](https://github.com/YukiHaze/XXModding/wiki/File-List-(F1))
